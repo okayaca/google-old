@@ -1,0 +1,13 @@
+body{
+    background-color: #fff;
+}
+table{
+    border: 0;
+    width: 90%;
+}
+a{
+    font-size: small;
+}
+.sinifadi{
+    font-size: medium !important;
+}
